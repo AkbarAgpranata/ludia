@@ -10,7 +10,7 @@ const LandingPage = () => {
 
   const images = [
     "/foto1.jpeg",
-    "/foto2.jpg",
+    "/foto2.JPG",
     "/foto3.jpg",
     "/foto4.jpg",
     "/foto5.jpeg",
